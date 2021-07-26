@@ -1,0 +1,8 @@
+1.- Instalamos el composer.exe que esta dentro de esta carpeta
+2.- Cuando lo hayamos instalado como ya dentro del repo esta el archivo de composer creado el siguiente paso sera.
+3.- Meternos a nuestra carpeta en donde hayamos puesto nuestro proyecto, y solo digitaremos lo siguiente "composer install".
+4.- Descargara e intalara lo que nos falte.
+
+
+pd: Debes de estar dentro de la carpeta, donde el proyecto se ubica ya que este dentro de la carpeta desde el cmd debes escribir el comando ya escrito en los pasos anteriores:
+composer install
